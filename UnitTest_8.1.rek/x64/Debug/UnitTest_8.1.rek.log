@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_8.1.rek.cpp
+C:\Users\Roman\source\repos\Lab_08.1.rek\Lab_08.1.rek.cpp(52,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\Roman\source\repos\Lab_08.1.rek\x64\Debug\UnitTest_8.1.rek.lib and object C:\Users\Roman\source\repos\Lab_08.1.rek\x64\Debug\UnitTest_8.1.rek.exp
+  UnitTest_8.1.rek.vcxproj -> C:\Users\Roman\source\repos\Lab_08.1.rek\x64\Debug\UnitTest_8.1.rek.dll
